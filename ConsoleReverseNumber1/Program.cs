@@ -6,6 +6,18 @@ using System.Threading.Tasks;
 
 namespace ConsoleReverseNumber1
 {
+    /*Переворот числа (123 → 321)
+Структура:
+Входные данные: целое число number.
+Выходные данные: перевернутое число.
+Пример ввода и вывода:
+Ввод:
+с клавиатуры
+Вывод:
+321
+9
+7
+ReverseNumber*/
     internal class Program
     {
         static void Main(string[] args)
